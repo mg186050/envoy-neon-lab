@@ -1,10 +1,13 @@
-# Interactive Katacoda Scenarios
+# Envoy Lab for Neon
 
-[![](http://shields.katacoda.com/katacoda/martingalero/count.svg)](https://www.katacoda.com/martingalero "Get your profile on Katacoda.com")
+Sources/Forked from:
+https://github.com/hnasr/javascript_playground
+https://github.com/msfidelis/envoy-proxy-examples
+https://github.com/envoyproxy/envoy
 
-Visit https://www.katacoda.com/martingalero to view the profile and interactive scenarios
+Docs/Videos:
+https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+https://www.envoyproxy.io/docs/envoy/latest/configuration/overview/overview
+https://levelup.gitconnected.com/l4-vs-l7-load-balancing-d2012e271f56
+https://www.youtube.com/watch?v=40gKzHQWgP0&t=1187s
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
